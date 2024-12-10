@@ -1,3 +1,5 @@
+SUPPORTED_LANGUAGES = ["es"]
+
 
 class LatexDocument:
     def __init__(self,*, name="", language = "es") -> None:
